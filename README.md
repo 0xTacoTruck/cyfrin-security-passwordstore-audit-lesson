@@ -10,9 +10,15 @@ Foundry consists of:
 -   **Chisel**: Fast, utilitarian, and verbose solidity REPL.
 
   
-# LESSON NOTES
+# Repository Overview
 
-My notes taken during this course can be found in the Notes.md file of this repository.
+This repository is a collection of lesson files for the Cyfrin - Security and Auditing course - 'First audit | PasswordStore' lesson.
+
+This README.md mainly introduces Foundry which is the framework I use during my learning.
+
+## Notes
+
+My notes taken during this course can be found in the Notes.md file of this repository. This file is where all learnt knowledge is stored, it represents a combination of what is presented and my own input to help absorb the material faster.
 
 
 ## Environment Variables Usage
